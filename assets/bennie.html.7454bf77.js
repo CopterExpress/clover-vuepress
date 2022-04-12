@@ -1,0 +1,1 @@
+const e={key:"v-55208d6d",path:"/en/bennie.html",title:"Retail Drone - CopterHack 2021 article",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Contact info",slug:"contact-info",children:[]}],filePathRelative:"en/bennie.md"};export{e as data};

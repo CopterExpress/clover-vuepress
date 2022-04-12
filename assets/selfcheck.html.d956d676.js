@@ -1,0 +1,1 @@
+const e={key:"v-1d1b6490",path:"/ru/selfcheck.html",title:"\u0410\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430",lang:"ru",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ru/selfcheck.md"};export{e as data};

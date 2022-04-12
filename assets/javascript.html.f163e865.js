@@ -1,0 +1,1 @@
+const e={key:"v-65d7be42",path:"/en/javascript.html",title:"Work with ROS from browser",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]},{level:2,title:"Web GCS",slug:"web-gcs",children:[]}],filePathRelative:"en/javascript.md"};export{e as data};

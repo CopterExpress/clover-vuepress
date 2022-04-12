@@ -1,0 +1,1 @@
+const e={key:"v-0d806017",path:"/en/simulation_vm.html",title:"Simulation VM setup",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Downloading",slug:"downloading",children:[]},{level:2,title:"Setting up the VM",slug:"setting-up-the-vm",children:[]}],filePathRelative:"en/simulation_vm.md"};export{e as data};

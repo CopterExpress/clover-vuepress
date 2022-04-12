@@ -1,0 +1,1 @@
+const e={key:"v-8c97d9aa",path:"/en/image.html",title:"Raspberry Pi image",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Usage",slug:"usage",children:[]}],filePathRelative:"en/image.md"};export{e as data};

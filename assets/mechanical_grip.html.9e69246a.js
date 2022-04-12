@@ -1,0 +1,1 @@
+const e={key:"v-57b82478",path:"/en/mechanical_grip.html",title:"Assembling and setting up a mechanical gripper",lang:"en",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/mechanical_grip.md"};export{e as data};

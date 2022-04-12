@@ -1,0 +1,1 @@
+const e={key:"v-5e56d2bc",path:"/en/coex_gps.html",title:"COEX GPS",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Port pinouts",slug:"port-pinouts",children:[{level:3,title:"Top view",slug:"top-view",children:[]},{level:3,title:"Bottom view",slug:"bottom-view",children:[]}]}],filePathRelative:"en/coex_gps.md"};export{e as data};

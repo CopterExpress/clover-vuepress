@@ -1,0 +1,1 @@
+const a={key:"v-1140838a",path:"/ru/failsafe.html",title:"\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0430 Failsafe",lang:"ru",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ru/failsafe.md"};export{a as data};

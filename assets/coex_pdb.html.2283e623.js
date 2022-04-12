@@ -1,0 +1,1 @@
+const e={key:"v-401bfe44",path:"/en/coex_pdb.html",title:"COEX PDB",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Port pinouts",slug:"port-pinouts",children:[{level:3,title:"Top view",slug:"top-view",children:[]},{level:3,title:"Bottom view",slug:"bottom-view",children:[]}]}],filePathRelative:"en/coex_pdb.md"};export{e as data};

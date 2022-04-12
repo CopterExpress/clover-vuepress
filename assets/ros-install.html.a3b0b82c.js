@@ -1,0 +1,1 @@
+const t={key:"v-6dd0707c",path:"/en/ros-install.html",title:"ROS Melodic package installation and setup",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"ROS Melodic installation on Ubuntu",slug:"ros-melodic-installation-on-ubuntu",children:[]}],filePathRelative:"en/ros-install.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-fc43decc",path:"/en/web_video_server.html",title:"Viewing images from cameras",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Viewing in a browser",slug:"viewing-in-a-browser",children:[]},{level:2,title:"Browse with rqt_image_view",slug:"browse-with-rqt-image-view",children:[]}],filePathRelative:"en/web_video_server.md"};export{e as data};

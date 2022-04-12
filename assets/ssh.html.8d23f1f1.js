@@ -1,0 +1,1 @@
+const e={key:"v-42d231de",path:"/en/ssh.html",title:"SSH access to Raspberry Pi",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Web access",slug:"web-access",children:[]}],filePathRelative:"en/ssh.md"};export{e as data};

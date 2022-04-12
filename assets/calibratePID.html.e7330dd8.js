@@ -1,0 +1,1 @@
+const e={key:"v-7d5432b0",path:"/en/calibratePID.html",title:"Configuring the PID coefficients",lang:"en",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en/calibratePID.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-048dcf0b",path:"/en/lessons.html",title:"Theory",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Video lessons",slug:"video-lessons",children:[]}],filePathRelative:"en/lessons.md"};export{e as data};

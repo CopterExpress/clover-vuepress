@@ -1,0 +1,1 @@
+const e={key:"v-5a35e3c2",path:"/en/packages.html",title:"COEX packages repository",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Packages publishing",slug:"packages-publishing",children:[]},{level:2,title:"Using on a normal Raspberry Pi OS",slug:"using-on-a-normal-raspberry-pi-os",children:[]}],filePathRelative:"en/packages.md"};export{e as data};

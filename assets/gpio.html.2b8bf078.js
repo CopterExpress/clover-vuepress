@@ -1,0 +1,1 @@
+const e={key:"v-e5944406",path:"/en/gpio.html",title:"Working with GPIO",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Connecting servos",slug:"connecting-servos",children:[]},{level:2,title:"Connecting an electromagnet",slug:"connecting-an-electromagnet",children:[]}],filePathRelative:"en/gpio.md"};export{e as data};

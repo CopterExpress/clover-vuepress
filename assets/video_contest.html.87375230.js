@@ -1,0 +1,1 @@
+const e={key:"v-174ce954",path:"/en/video_contest.html",title:"Contest for the best educational video on assembly and configuration",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Prizes",slug:"prizes",children:[]},{level:2,title:"Results",slug:"results",children:[]}],filePathRelative:"en/video_contest.md"};export{e as data};

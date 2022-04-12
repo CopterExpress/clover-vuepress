@@ -1,0 +1,1 @@
+const e={key:"v-3ca56844",path:"/en/3dscan.html",title:"3D-scanning drone",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Video",slug:"video",children:[]},{level:2,title:"Team",slug:"team",children:[]}],filePathRelative:"en/3dscan.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-44d33d6c",path:"/en/autolaunch.html",title:"Software autorun",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"systemd",slug:"systemd",children:[]},{level:2,title:"roslaunch",slug:"roslaunch",children:[]}],filePathRelative:"en/autolaunch.md"};export{e as data};

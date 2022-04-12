@@ -1,0 +1,1 @@
+const e={key:"v-29fb6dc1",path:"/en/power.html",title:"Power setup",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Calibrating the power sensor",slug:"calibrating-the-power-sensor",children:[]},{level:2,title:"ESC calibration",slug:"esc-calibration",children:[]}],filePathRelative:"en/power.md"};export{e as data};

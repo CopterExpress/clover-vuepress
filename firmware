@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="canonical" href="en/firmware.html">
+  <title>Redirecting...</title>
+  <script>
+    const anchor=window.location.hash.substr(1);
+    location.href=`en/firmware.html${anchor?`#${anchor}`:""}`;
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>

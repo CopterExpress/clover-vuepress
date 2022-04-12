@@ -1,0 +1,1 @@
+const a={key:"v-4057a332",path:"/ru/zaural_viking.html",title:"\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u0443\u0435\u043C\u044B\u0439 \u043B\u0435\u0442\u0430\u044E\u0449\u0438\u0439 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C",lang:"ru",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ru/zaural_viking.md"};export{a as data};

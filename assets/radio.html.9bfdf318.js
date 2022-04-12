@@ -1,0 +1,1 @@
+const t={key:"v-0f944c8b",path:"/en/radio.html",title:"RC setup",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Connecting the RC transmitter",slug:"connecting-the-rc-transmitter",children:[]},{level:2,title:"Transmitter calibration",slug:"transmitter-calibration",children:[]}],filePathRelative:"en/radio.md"};export{t as data};

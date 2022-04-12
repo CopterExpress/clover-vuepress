@@ -1,0 +1,1 @@
+const e={key:"v-4f529708",path:"/en/gps.html",title:"Connecting GPS",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Connection",slug:"connection",children:[]}],filePathRelative:"en/gps.md"};export{e as data};

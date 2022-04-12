@@ -1,0 +1,1 @@
+const e={key:"v-609fd8c6",path:"/en/assembly.html",title:"Clover drone assembly",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Determination of version",slug:"determination-of-version",children:[]}],filePathRelative:"en/assembly.md"};export{e as data};

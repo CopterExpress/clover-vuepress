@@ -1,0 +1,1 @@
+const t={key:"v-69f4f4ec",path:"/en/simulation_m1.html",title:"Running simulator on M1 powered computer",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Simulation installation with UTM",slug:"simulation-installation-with-utm",children:[{level:3,title:"Troubleshooting",slug:"troubleshooting",children:[]}]}],filePathRelative:"en/simulation_m1.md"};export{t as data};

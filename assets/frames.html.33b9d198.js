@@ -1,0 +1,1 @@
+const e={key:"v-655e32c6",path:"/en/frames.html",title:"Coordinate systems (frames)",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"tf2",slug:"tf2",children:[]}],filePathRelative:"en/frames.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-e86db306",path:"/ru/deck.html",title:"\u041A\u043E\u043C\u043F\u043B\u0435\u043A\u0442\u0430\u0446\u0438\u044F",lang:"ru",frontmatter:{},excerpt:"",headers:[],filePathRelative:"ru/deck.md"};export{e as data};

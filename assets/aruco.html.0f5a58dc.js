@@ -1,0 +1,1 @@
+const e={key:"v-57cdbfd6",path:"/en/aruco.html",title:"ArUco markers",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Modes of operation",slug:"modes-of-operation",children:[]}],filePathRelative:"en/aruco.md"};export{e as data};

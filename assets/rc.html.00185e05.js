@@ -1,0 +1,1 @@
+const e={key:"v-32fe499b",path:"/en/rc.html",title:"Controlling Clover from a smartphone",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Configuring",slug:"configuring",children:[]},{level:2,title:"Connection",slug:"connection",children:[]},{level:2,title:"Malfunctions",slug:"malfunctions",children:[]}],filePathRelative:"en/rc.md"};export{e as data};

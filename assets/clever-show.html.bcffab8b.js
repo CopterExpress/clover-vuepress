@@ -1,0 +1,1 @@
+const e={key:"v-eb6f207a",path:"/en/clever-show.html",title:"clever-show",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Demo video",slug:"demo-video",children:[]},{level:2,title:"Team",slug:"team",children:[]}],filePathRelative:"en/clever-show.md"};export{e as data};

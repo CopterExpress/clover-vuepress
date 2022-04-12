@@ -1,0 +1,1 @@
+const e={key:"v-ff1d44f8",path:"/ru/ssh.html",title:"\u0414\u043E\u0441\u0442\u0443\u043F \u043F\u043E SSH \u043A Raspberry Pi",lang:"ru",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u0412\u0435\u0431-\u0434\u043E\u0441\u0442\u0443\u043F",slug:"\u0432\u0435\u0431-\u0434\u043E\u0441\u0442\u0443\u043F",children:[]}],filePathRelative:"ru/ssh.md"};export{e as data};

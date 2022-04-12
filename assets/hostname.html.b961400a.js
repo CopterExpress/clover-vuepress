@@ -1,0 +1,1 @@
+const e={key:"v-56e4a299",path:"/en/hostname.html",title:"Hostname",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Changing hostname",slug:"changing-hostname",children:[]}],filePathRelative:"en/hostname.md"};export{e as data};

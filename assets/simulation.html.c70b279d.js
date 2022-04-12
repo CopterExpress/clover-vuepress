@@ -1,0 +1,1 @@
+const e={key:"v-2a90a485",path:"/en/simulation.html",title:"Simulation overview",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Features",slug:"features",children:[]},{level:2,title:"Architecture",slug:"architecture",children:[]},{level:2,title:"Video",slug:"video",children:[]}],filePathRelative:"en/simulation.md"};export{e as data};

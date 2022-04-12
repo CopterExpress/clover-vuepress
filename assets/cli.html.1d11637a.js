@@ -1,0 +1,1 @@
+const e={key:"v-54289dc6",path:"/en/cli.html",title:"Command line interface",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Basic commands",slug:"basic-commands",children:[]},{level:2,title:"Editing files",slug:"editing",children:[]},{level:2,title:"Resetting changes",slug:"resetting-changes",children:[]}],filePathRelative:"en/cli.md"};export{e as data};

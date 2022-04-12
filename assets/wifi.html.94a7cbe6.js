@@ -1,0 +1,1 @@
+const e={key:"v-5164ce77",path:"/en/wifi.html",title:"Connecting to Clover via Wi-Fi",lang:"en",frontmatter:{},excerpt:"",headers:[{level:2,title:"Web interface",slug:"web-interface",children:[]}],filePathRelative:"en/wifi.md"};export{e as data};
